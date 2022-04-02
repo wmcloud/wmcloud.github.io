@@ -1,0 +1,46 @@
+.check-page {
+  padding-top: 15px;
+}
+
+#embed-captcha {
+  width: 300px;
+  /*margin-left: 190px;*/
+  margin-top: 15px;
+}
+
+.yz-code {
+  height:70px;
+  margin-left: 0px;
+}
+
+input#code {
+  width: 300px;
+}
+.show {
+  width: 300px;
+  display: block;
+  text-align: center;
+  line-height: 42px;
+  /*margin-left: 190px;*/
+}
+
+.hide {
+  display: none;
+  width: 300px;
+  line-height: 30px;
+  padding: 0;
+  margin: 0;
+}
+
+#notice {
+  color: red;
+}
+
+.jumbotron li {
+  padding: 3px 0;
+}
+
+#checkbutton {
+  width: 300px;
+  padding: 8px;
+}
